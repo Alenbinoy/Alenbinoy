@@ -1,7 +1,6 @@
 <h1 align="center">Hi! I am Alen Binoy</h3>
 <h3 align="center">Unleash your code's potential with a Pythonic touch</h3>
 
-<p align="center"> <a href="https://github.com/alenbinoy"><img src="https://github-profile-trophy.vercel.app/?username=alenbinoy&theme=darkhub&margin-w=1&margin-h=15&column=9" alt="alenbinoy" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 
