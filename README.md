@@ -5,7 +5,9 @@
 <h3 align="left">Connect with me:</h3>
 
 <p>
-<a href="mailto:alenbinoy2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
+<a href="mailto:alenbinoy2006@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 <a href="https://www.instagram.com/_mr.nobody_65/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/alen.binoy.5"><img src="https://img.shields.io/badge/Facebook-%231DA1F2.svg?style=for-the-badge&amp;logo=Facebook&amp;logoColor=white" alt="Facebook"></a>
 <a href="https://www.linkedin.com/in/alen-binoy-28b752277"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
