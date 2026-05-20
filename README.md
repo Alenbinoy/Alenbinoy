@@ -1,29 +1,61 @@
-<h1 align="center">Hi! I am Alen Binoy</h3>
-<h3 align="center">Unleash your code's potential with a Pythonic touch</h3>
+<h1 align="center">Hey 👋, I'm Alen Binoy</h1>
+<h3 align="center">AI/ML Developer • Computer Vision Enthusiast • Backend Engineer</h3>
 
-
-<h3 align="left">Connect with me:</h3>
-
-<p>
-<a href="mailto:alenbinoy2006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://www.instagram.com/_mr.nobody_65/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/alen.binoy.5"><img src="https://img.shields.io/badge/Facebook-%231DA1F2.svg?style=for-the-badge&amp;logo=Facebook&amp;logoColor=white" alt="Facebook"></a>
-<a href="https://www.linkedin.com/in/alen-binoy-28b752277"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+<p align="center">
+  Building intelligent student-friendly AI systems using OCR, LLMs, FastAPI & Computer Vision 🚀
 </p>
 
+---
 
-### GitHub Stats:
-<a href="https://github.com/alenbinoy">
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=alenbinoy&bg_color=1d1f21&color=ffffff&line=2bbc8a&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" />
-</a>
-<div align="center">
+## 🌐 Connect With Me
 
-<a href="https://github.com/alenbinoy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alenbinoy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<p align="center">
+<a href="mailto:alenbinoy2006@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/alenbinoy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alenbinoy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+<a href="https://www.linkedin.com/in/alen-binoy-28b752277">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="https://www.instagram.com/_mr.nobody_65/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/alen.binoy.5">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 🚀 About Me
+
+```python
+class AlenBinoy():
+
+    def __init__(self):
+        self.role = "AI/ML Developer"
+        self.education = "BSc Data Science & AI"
+        self.university = "Christ University, Delhi NCR"
+
+        self.interests = [
+            "Artificial Intelligence",
+            "Computer Vision",
+            "OCR Systems",
+            "Generative AI",
+            "Backend Development",
+            "LLM Engineering"
+        ]
+
+        self.languages = ["Python", "SQL", "JavaScript"]
+        self.frameworks = ["FastAPI", "Flask"]
+        self.tools = ["Docker", "Git", "Ollama", "Linux"]
+
+    def current_focus(self):
+        return [
+            "Hybrid OCR Systems",
+            "Student AI Assistants",
+            "Multilingual AI",
+            "Vision + Language Models"
+        ]
